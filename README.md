@@ -23,9 +23,9 @@ Berikut adalah anggota pengembang proyek ini:
 
 | 🧑 Nama Lengkap                                | 🆔 NIM           |
 |------------------------------------------------|------------------|
+| 🎓 **M. Mardlian Nurofiq**                     | `23091397105`    |
 | 🎓 **Widirga Putri Aditya Wardaningtyas**      | `23091397079`    |
 | 🎓 **M. Afilla Riyan Kefanu**                  | `23091397082`    |
-| 🎓 **M. Mardlian Nurofiq**                     | `23091397105`    |
 
 > 💡 *Dikerjakan secara kolaboratif untuk menyelesaikan tugas akhir semester dengan fokus pada pengembangan web berbasis Laravel dan Tailwind CSS.*
 
@@ -33,7 +33,7 @@ Berikut adalah anggota pengembang proyek ini:
 
 ## 🛠️ Teknologi yang Digunakan
 
-- **Framework Backend**: Laravel 10+
+- **Framework Backend**: Laravel 11
 - **Frontend**: Blade Template + Tailwind CSS
 - **Database**: MySQL
 - **Autentikasi**: Laravel Auth Brezze dan Sanctum
